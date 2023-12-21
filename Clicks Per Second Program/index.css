@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#cps {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 50px;
+    padding: 100px;
+}
+
+
+#title {
+    font-size: 48px; 
+    margin-bottom: 20px; 
+}
+
+#info{
+    font-size: 48px; 
+    margin-bottom: 20px; 
+}
